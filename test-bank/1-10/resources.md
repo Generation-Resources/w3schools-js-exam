@@ -66,7 +66,7 @@ In this example, the output would be the following:
 ## Question 5
 
 - [MDN: HTML Element: change event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event)
-- [Elequent JavaScript: Forms and Form Fields](https://eloquentjavascript.net/2nd_edition/18_forms.html#:~:text=Whenever%20the%20value%20of%20a,fires%20a%20%22change%22%20event)
+- [Elequent JavaScript: Forms and Form Fields](https://eloquentjavascript.net/2nd_edition/18_forms.html#)
 
 ## Question 6
 
